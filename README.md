@@ -9,4 +9,4 @@
 - Compreenda como funciona um algoritmo de clusterização
 - Entenda e aplique os algoritmos Mean Shift e DBSCAN
 - Aprenda sobre redução de dimensionalidade
-####  ✅ <a href="https://cursos.alura.com.br/user/diassmatheus/course/estatistica-probabilidade-e-amostragem/certificate">Certificado</a> - Finalizado em 03 de abril de 2023
+####  ✅ <a href="link">Certificado</a> - Finalizado em 06 de novembro de 2023
